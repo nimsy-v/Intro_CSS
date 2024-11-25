@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(232, 235, 213);
+}
+
+h1 {
+  color: green;
+  font-size: 40px;
+  margin-bottom: 28px;
+  text-align: center;
+}
+
+h2 {
+  color: brown;
+  font-size: 26px;
+}
+
+h3 {
+  color: darkred;
+}
+
+p {
+  color: rgb(15, 83, 114);
+  font-size: 17px;
+  text-align: justify;
+}
+
+li {
+  font-size: 16px;
+}
+
+.Alimentación {
+  color: rgb(138, 80, 161);
+  font-size: 16px;
+}
+
+.Tipos {
+  color: rgb(184, 37, 157);
+  font-size: 16px;
+}
